@@ -73,5 +73,6 @@
       }
     }
   },
-  "supports": {}
+  "supports": {},
+  "runtimes": {"win":{}}
 }

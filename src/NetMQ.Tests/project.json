@@ -15,6 +15,7 @@
   },
   "testRunner": "nunit-with-labels",
   "frameworks": {
+    "net40": {},
     "net451": {
     },
     "netcoreapp1.0": {
@@ -30,5 +31,8 @@
         "System.Threading.Thread": "4.0.0"
       }
     }
+  },
+  "runtimes": {
+    "win":{}
   }
 }
